@@ -9,6 +9,4 @@ public class Staff {
     private String name;
     private int age;
     private String department;
-
-
 }
